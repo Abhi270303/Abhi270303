@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![that-abhi's GitHub | Languages Over Time](https://stats.quine.sh/that-abhi/languages-over-time?theme=light)](https://quine.sh)
+
+[![that-abhi's Web3 | Identity](https://stats.quine.sh/that-abhi/web3?theme=light)](https://quine.sh)
