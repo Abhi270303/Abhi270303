@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Javascript, Solidity & Subgraphs...
+
 🌱 I’m currently learning Substreams...
-📫 How to reach me: https://twitter.com/0xabhii
+
+📫 How to reach me: [Twitter](https://twitter.com/0xabhii), [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-a567a3250/)
+
